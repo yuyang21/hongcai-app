@@ -1,0 +1,10 @@
+build/*.js
+config/*.js
+mCarousel.js
+md5.js
+qrcode.js
+swipeSlide.js
+createjs.min.js
+game-counting.vue
+arctext.js
+CheckWordsUtils.js
